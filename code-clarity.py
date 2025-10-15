@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState } from 'react';
 import { Shield, Users, Lock, TrendingUp, CheckCircle, AlertCircle, Clock, DollarSign, MessageSquare, ArrowRight, FileText, Star, Search, Filter, X, Send, Copy, Check } from 'lucide-react';
 
@@ -1063,3 +1064,6 @@ const TrustPeer = () => {
 };
 
 export default TrustPeer;
+=======
+
+>>>>>>> 44c109abecee7f8c697888d1913d149f26f312bb
